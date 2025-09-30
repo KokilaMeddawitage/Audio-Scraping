@@ -1,0 +1,19 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE/project files
+.idea/
+.vscode/
+
+# Ignore audio and output files
+input.wav
+clips/
+clips.rar
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
